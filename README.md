@@ -1,5 +1,5 @@
 # hdmi-lcd-backpack
-An HDMI signal converter backpack
+An HDMI signal converter backpack PCB
 
 A circuit I designed for my electrical/computer engineering senior design project. Takes up to 1080p HDMI video signals, feeds them to a TI TFP401A signal converter, and directly drives an attached LCD. Also provides capacitive touch sensing, backlight control, and DDC data.
 
